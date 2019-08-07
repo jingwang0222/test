@@ -1,6 +1,6 @@
 {
   "name": "TestNewUiPath",
-  "description": Blank Process",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.6.2]",
